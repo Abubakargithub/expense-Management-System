@@ -1,0 +1,4 @@
+id20917042_root
+dbname: id20917042_accounting_system_db
+localhost
+h@+7]jomo_^VdWXl
