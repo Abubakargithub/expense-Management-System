@@ -1,7 +1,7 @@
 # expense-Management-System
 # Expense Tracker Web Application
 
-![Expense Tracker Logo](https://example.com/expense-tracker-logo.png)
+![Expense Tracker Logo](screenshots/slide1.png)
 
 Welcome to the Expense Tracker web application, a powerful tool for managing your expenses effortlessly. Developed by Abubakar Sani Abubakar.
 
@@ -26,7 +26,12 @@ The Expense Tracker is a web-based application designed to help you manage your 
 - **Analytics:** Visualize your expenses with interactive charts to gain insights.
 
 ## Screenshots
-![Dashboard](https://example.com/screenshots/dashboard.png)
+![Mobile View](screenshots/mobilev.png)
+## Screenshots
+![Front Page](screenshots/front.png)
+![Expense Entries](screenshots/dasboard.png)
+![Analytics](screenshots/entries.png)
+
 
 ## Getting Started
 1. Clone the repository: `git clone https://github.com/yourusername/expense-tracker.git`
@@ -44,6 +49,3 @@ The Expense Tracker is a web-based application designed to help you manage your 
 
 ## Contributing
 Contributions are welcome! If you have any ideas, bug fixes, or improvements, please open an issue or submit a pull request.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
